@@ -1,2 +1,2 @@
 # ATESTAT_PY
-Étterem számla adminisztrációs romániai ATESTAT vizsgára készült python projektem
+Étterem számla adminisztrációs szakvizsgára készült python projektem
